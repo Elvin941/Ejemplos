@@ -1,6 +1,6 @@
 Hola me llamo Elvin
 
-Hoy sabado 8 de febrero del 2020
+Hoy sabado 8 de febrero
 
 probando los comandos en git
 
